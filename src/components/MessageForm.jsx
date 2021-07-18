@@ -1,8 +1,8 @@
 const MessageForm = () => {
     return (
-        <div>
+        <form>
             MessageForm
-        </div>
+        </form>
     );
 }
 
